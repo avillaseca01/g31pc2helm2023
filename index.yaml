@@ -3,12 +3,12 @@ entries:
   g31pc2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-29T18:11:38.138237736Z"
+    created: "2023-01-29T18:26:59.155577624Z"
     description: A Helm chart for Kubernetes
-    digest: cedd7eda3c9a9168a4f37792783787383bf90c1dc9d105cf6bcbf25188da1a65
+    digest: 752d02a7cb7dbce32c5cffaba114d7f340215901095f68e80b6b0e6115dbdf92
     name: g31pc2
     type: application
     urls:
     - g31pc2-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-29T18:11:38.137732089Z"
+generated: "2023-01-29T18:26:59.155022736Z"
